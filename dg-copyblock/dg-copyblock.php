@@ -40,11 +40,6 @@ FLBuilder::register_module( 'DGCopyBlockModuleClass', array(
 						'label'         => __('Side Image', 'fl-builder'),
 						'show_remove'   => true
 					),
-					'dg_field_side_image_size' => array(
-						'type'          => 'photo-sizes',
-						'label'         => __('Side Image Sizes', 'fl-builder'),
-						'default'       => 'large'
-					),
 				)
 			)
 		)
