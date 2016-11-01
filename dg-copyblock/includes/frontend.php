@@ -14,7 +14,7 @@ $minh = 'min-height: 12em;';
 $padding = "padding: 3em;";
 
 ?>
-<?php // echo  $image_url; ?>
+
 <div class="side-image">
 	<div class="images-wrapper" style="<?php echo $bgimg, $bgsize, $repeat, $border_bottom, $minh, $padding;  ?>"></div>
 	<div class="side-image-content">
